@@ -1,40 +1,35 @@
 <div align="center">
 
-# 👋 你好！我是 MeachalLouisJunyan 🌸
+# Hey, I'm Meachal 👋
 
-**学生开发者 | Python 爱好者**
-
-`🐍 Python`　`🎞️ FFmpeg`　`📜 MIT`　`🎌 学生・開発中`
-
----
-
-> 🌸 喜欢用 Python 做各种小工具，二次元主题是信仰 ✨  
-> 🎀 追求简洁干净的代码，像樱花一样优雅
-
----
-
-## 🏆 项目展示
-
-| 项目 | 描述 | 技术栈 |
-|:---:|:---|:---:|
-| 🌟 [**JyGet**](https://github.com/MeachalLouisJunyan/JyGet) | 磁力下载器，比迅雷更快，比夸克更干净 | `Python` `aria2` |
-| 🎵 [**Audio Converter**](https://github.com/MeachalLouisJunyan/Audio-Converter) | 50+ 格式 → WAV/MP3，拖拽即转 | `Python` `FFmpeg` |
-| 🎶 [**Jy Music**](https://github.com/MeachalLouisJunyan/Jy-Music) | 音乐库管理 + 播放器 + 格式转换 | `Python` `SQLite` |
-| ✅ [**cli_todo**](https://github.com/MeachalLouisJunyan/cli_todo) | 命令行待办事项管理器 | `Python` |
-
----
-
-## 📊 统计
-
-> 🚀 **4 个开源项目** · 📚 **Python 深耕中**
-
----
-
-<div align="center">
-
-`🌸 桜 が 舞 い 落 ち る 🌸`
-
-**Built with 💖 and lots of 🌸**
+**在校大学生 · Vibe Coding 开发者 · 用 Python 把脑子里的想法变成能用的东西**
 
 </div>
-</div>
+
+---
+
+想要什么工具就自己写。写完顺手开源，万一有人也需要呢。
+
+## 🎵 主推项目
+
+[**Jy Music · 萌音工作室**](https://github.com/MeachalLouisJunyan/moe-music-studio) — 本地音乐管理播放器
+
+管理、播放、格式转换一站搞定。50+ 种音频格式，三款主题，内置 ffmpeg，完全离线零数据收集。Windows / macOS 下载双击就能用。
+
+`Python` `Tkinter` `SQLite` `pygame` `ffmpeg` `PyInstaller`
+
+[→ 下载最新版](https://github.com/MeachalLouisJunyan/moe-music-studio/releases/latest)
+
+## 🛠️ 其他项目
+
+| 项目 | 一句话 |
+|------|--------|
+| [**JyGet**](https://github.com/MeachalLouisJunyan/jyget) | 磁力/BT 下载器，aria2 驱动 |
+| [**audio-converter**](https://github.com/MeachalLouisJunyan/audio-converter) | 50+ 音频格式批量转换 |
+| [**cli_todo**](https://github.com/MeachalLouisJunyan/cli_todo) | 命令行待办管理 |
+
+## ☕ 支持
+
+软件全部免费开源。觉得好用的话：
+
+[💖 爱发电](https://ifdian.net/a/LOUISMEACHALJUNYAN) · [💜 GitHub Sponsors](https://github.com/sponsors/MeachalLouisJunyan) · ⭐ 点个 Star
